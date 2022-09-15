@@ -1,4 +1,4 @@
-def helloworld():
+def helloWorld():
     return "Hello world"
 
-print(helloworld())
+print(helloWorld())
